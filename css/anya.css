@@ -1,0 +1,51 @@
+@media (min-width: 992px) {
+    header {
+        padding: 156px 0 100px;
+        height: 100vh;
+    }
+
+    section {
+        height: 100vh;
+    }
+
+}
+
+body {
+    height: 100vh;
+}
+
+.section-part {
+    height: 100vh;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+
+
+.date {
+    font-weight: lighter;
+    color: gray;
+}
+
+h1 {
+    font-weight: bold;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 65px;
+    color: black;
+}
+
+
+h2 {
+    margin-top: 25px;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    text-align: justify;
+    max-width: 500px;
+}
